@@ -6,6 +6,10 @@ NotiSKKU는 성균관대학교 학생들을 위한 **맞춤형 공지사항 알�
 
 **더 이상 중요한 공지를 놓치지 마세요!**
 학과별 맞춤 공지부터 관심 키워드 알림까지, NotiSKKU와 함께 스마트한 대학 생활을 시작하세요.
+
+
+
+
 실시간 푸시 알림으로 언제 어디서나 필요한 정보를 받아보실 수 있습니다.
 
 <p align="center">
@@ -19,7 +23,7 @@ NotiSKKU는 성균관대학교 학생들을 위한 **맞춤형 공지사항 알�
 | PM | Design | Frontend | Backend |
 |:--:|:------:|:--------:|:-------:|
 | <img src="../readme_assets/chaeyeon.png" width="150" alt="이채연" tabindex="-1" style="outline:none;border:0;"/> | <img src="../readme_assets/twjin.png" width="150" alt="김예진" tabindex="-1" style="outline:none;border:0;"/> | <img src="../readme_assets/mppn98.png" width="150" alt="문준원" tabindex="-1" style="outline:none;border:0;"/> | <img src="../readme_assets/junwoo.png" width="150" alt="박준우" tabindex="-1" style="outline:none;border:0;"/> |
-| 성균관대학교 4기 | 성균관대학교 4기 | 성균관대학교 4기 | 성균관대학교 4기 |
+| 바이오메카트로닉스학과 | 교육학과 | 소프트웨어학과 | 소프트웨어학과 |
 | 이채연 | 김예진 | 문준원 | 박준우 |
 | [@i-chaeyeon](https://github.com/i-chaeyeon) | [@twjin03](https://github.com/twjin03) | [@mppn98](https://github.com/mppn98) | [@junwooP0](https://github.com/junwooP0) |
 
