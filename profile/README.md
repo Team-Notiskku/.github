@@ -8,9 +8,12 @@ NotiSKKU는 성균관대학교 학생들을 위한 **맞춤형 공지사항 알�
 학과별 맞춤 공지부터 관심 키워드 알림까지, NotiSKKU와 함께 스마트한 대학 생활을 시작하세요.
 실시간 푸시 알림으로 언제 어디서나 필요한 정보를 받아보실 수 있습니다.
 
-<p align="center">
-  <img src="../readme_assets/app_overview.png" width="60%"/>
-</p>
+ <p align="center">
+    <img src="https://raw.githubusercontent.com/Team-No    
+  tiskku/.github/main/readme_assets/app_overview.png"      
+  width="90%"/>
+  </p>
+
 
 <br/>
 
