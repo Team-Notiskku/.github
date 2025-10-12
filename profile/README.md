@@ -9,7 +9,7 @@ NotiSKKU는 성균관대학교 학생들을 위한 **맞춤형 공지사항 알�
 실시간 푸시 알림으로 언제 어디서나 필요한 정보를 받아보실 수 있습니다.
 
 <p align="center">
-  <img src="../readme_assets/app_overview.png" width="90%"/>
+  <img src="../readme_assets/app_overview.pdf" width="90%"/>
 </p>
 
 <br/>
