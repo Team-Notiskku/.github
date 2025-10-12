@@ -12,7 +12,6 @@ NotiSKKU는 성균관대학교 학생들을 위한 **맞춤형 공지사항 알�
   <img src="../readme_assets/app_overview.png" width="90%"/>
 </p>
 
-
 <br/>
 
 ## 🔥 This is Our Team
@@ -26,19 +25,6 @@ NotiSKKU는 성균관대학교 학생들을 위한 **맞춤형 공지사항 알�
 
 <br/>
 
-## 🛠️ 기술 스택
-
-### Frontend
-- **Flutter** 3.7.0+
-- **Dart** ^3.7.0
-
-### Backend & Database
-- **Firebase Core** 3.13.0  
-- **Firebase Firestore** 5.6.6
-- **Firebase Cloud Messaging** 15.2.5 
-
-<br/>
-
 ## 📲 지금 다운로드하세요!
 
 <p align="center">
@@ -49,6 +35,7 @@ NotiSKKU는 성균관대학교 학생들을 위한 **맞춤형 공지사항 알�
     <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-example-preferred.png" alt="App Store" height="80"/>
   </a>
 </p>
+
 
 <br/>
 
