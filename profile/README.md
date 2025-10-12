@@ -14,7 +14,7 @@ NotiSKKU는 성균관대학교 학생들을 위한 **맞춤형 공지사항 알�
 
 | PM | Design | Frontend | Backend |
 |:--:|:------:|:--------:|:-------:|
-| <img src="readme_assets/chaeyeon.png" width="150" alt="이채연" tabindex="-1" style="outline:none;border:0;"/> | <img src="readme_assets/jungyoon.jpeg" width="150" alt="김예진" tabindex="-1" style="outline:none;border:0;"/> | <img src="readme_assets/songmok.jpeg" width="150" alt="문준원" tabindex="-1" style="outline:none;border:0;"/> | <img src="readme_assets/chaejoo.jpeg" width="150" alt="박준우우" tabindex="-1" style="outline:none;border:0;"/> |
+| <img src="readme_assets/chaeyeon.png" width="150" alt="이채연" tabindex="-1" style="outline:none;border:0;"/> | <img src="readme_assets/jungyoon.jpeg" width="150" alt="김예진" tabindex="-1" style="outline:none;border:0;"/> | <img src="readme_assets/songmok.jpeg" width="150" alt="문준원" tabindex="-1" style="outline:none;border:0;"/> | <img src="readme_assets/chaejoo.jpeg" width="150" alt="박준우" tabindex="-1" style="outline:none;border:0;"/> |
 | 성균관대학교 4기 | 성균관대학교 4기 | 성균관대학교 4기 | 성균관대학교 4기 |
 | 이채연 | 김예진 | 문준원 | 박준우 |
 | [@i-chaeyeon](https://github.com/i-chaeyeon) | [@twjin03](https://github.com/twjin03) | [@mppn98](https://github.com/mppn98) | [@junwooP0](https://github.com/junwooP0) |
